@@ -6,9 +6,9 @@
 
 I built this using basic html and css skills
 
-repo URL:
+repo URL: https://github.com/ChrisCablish/order-summary-component
 
-live site URL:
+live site URL: https://chriscablish.github.io/order-summary-component/
 
 Users should be able to:
 
